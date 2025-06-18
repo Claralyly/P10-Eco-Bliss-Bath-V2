@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Tests E2E avec Cypress - Application E-commerce  
+
+## Description  
+Ce projet utilise **Cypress** pour tester une application de commerce électronique.  
+Il permet de valider la connexion utilisateur, la gestion du panier, les tests de sécurité XSS et la récupération de produits via l’API.  
+
+---
+
+## Installation et configuration  
+
+### Cloner le projet**  
+```bash
+git clone https://github.com/Claralyly/P10-Eco-Bliss-Bath-V2.git
+cd Eco-Bliss-Bath-V2-main
